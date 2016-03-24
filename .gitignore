@@ -1,0 +1,8 @@
+*.mp3
+*.pdf
+*.xml
+*.db
+*.raw
+*.png
+*.corr
+.auth
